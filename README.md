@@ -8,7 +8,6 @@
 
 # Demo
 デモの実行方法は以下です。
-#### Face Mesh
 ```bash
 python demo.py
 ```
