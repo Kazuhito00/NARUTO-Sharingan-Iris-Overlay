@@ -1,6 +1,6 @@
 # NARUTO-Sharingan-Iris-Overlay
 [MediaPipe](https://github.com/google/mediapipe)のFaceMesh検出を用いて、虹彩部分に写輪眼(©NARUTO -ナルト-)を表示するプログラムです。<br><br>
-<img src="https://user-images.githubusercontent.com/37477845/163666450-af2ccf87-560e-498f-a810-6fc212f9bf64.gif" width="50%">
+<img src="https://user-images.githubusercontent.com/37477845/163666450-af2ccf87-560e-498f-a810-6fc212f9bf64.gif" width="75%">
 
 # Requirement 
 * mediapipe 0.8.8 or later<br>
